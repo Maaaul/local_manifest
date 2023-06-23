@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/xiaomi/santoni" name="Maaaul/android-device-santoni.git" remote="github" revision="13-staging" />
+ <project path="vendor/xiaomi" name="Maaaul/android-vendor-santoni.git" remote="github" revision="13.0" />
+ <project path="kernel/xiaomi/msm8937" name="Maaaul/msm-4.9-santoni-kud.git" remote="github" revision="13.0-CAF" />
+ 
+</manifest>
